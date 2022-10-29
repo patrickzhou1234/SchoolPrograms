@@ -1,0 +1,13 @@
+First Grade Program Output:
+Enter desired grade:                     B
+
+Enter minimum average required:          79.5
+
+Enter current average in course:         74.6
+
+Enter how much the final counts as a percentage of the course grade:        25
+94.20
+-----------------------------------------------------------------------------------------------
+Second Grade Program Output:
+Input three scores separated by space: 80 81 82
+81.0 81.0

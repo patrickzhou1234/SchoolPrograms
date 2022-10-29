@@ -1,0 +1,12 @@
+The first computer has specs 2 by 3 by 4, and has 100 cpu, 200 gpu, and 300 memory.
+The first computer's cpu is 100
+The first computer has specs 2 by 3 by 4, and has 400 cpu, 200 gpu, and 100 memory.
+The second computer has specs 0 by 0 by 0, and has 0 cpu, 0 gpu, and 0 memory.     
+The first computer has specs 0 by 0 by 0, and has 0 cpu, 0 gpu, and 0 memory.      
+The last computer has specs 0 by 0 by 0, and has 0 cpu, 0 gpu, and 0 memory.
+Let's build a computer for you.
+Input the values of memory, cpu, gpu separated by a space. 10 20 30
+Ok, your computer has 10 memory, 20 cpu and 30 gpu. 
+What would your specs be? Input x, y and z dimensions. 10 20 30
+Ok, we've officially built your computer: 
+Your computer  has specs 10 by 20 by 30, and has 20 cpu, 30 gpu, and 10 memory.

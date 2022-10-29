@@ -1,0 +1,9 @@
+Initial balance:            1000
+Annual interest in percent: 6
+After first month:          1005.0
+After second month:         1010.02
+After third month:          1015.08
+---------------------
+Please enter the first time:     0900
+Please enter the second time:    1730
+8 hours 30 minutes
