@@ -18,7 +18,7 @@ public class CoinGame {
     }
     public void playGame() {
         int p1cn=startingCoins, p2cn=startingCoins, crrd=0;
-        while (crrd<maxRounds || p1cn<3 || p2cn<3) {
+        while (crrd<maxRounds && p1cn>3 && p2cn>3) {
             p1cn-=getPlayer1Move();
             p2cn-=getPlayer2Move(crrd);
             if (getPlayer1Move()==getPlayer2Move(crrd)+1 || getPlayer1Move()+1==getPlayer2Move(crrd)) {
